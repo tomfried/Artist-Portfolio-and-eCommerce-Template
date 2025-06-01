@@ -1,5 +1,5 @@
 # Artist Portfolio & eCommerce Template
-Template for an Artist eCommerce website. Merely need to add your own images, art descriptions, info, and contact info in the HTML and you're good to go. Live version of this in use and improved upon is http://janefletcher.art.
+Template for an Artist eCommerce website. Merely need to add your own images, art descriptions, info, and contact info in the HTML and you're good to go.
 
 ## Credit
 There are a number of icons and things that I do not own. If you are the owner of it, let me know and I'll credit you if it's really that important to you.
